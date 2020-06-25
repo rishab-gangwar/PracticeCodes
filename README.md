@@ -1,2 +1,2 @@
 # mycodeschool
-solution for  mycodeschool page on youtube(data structure)
+codebook for data structure playlist of **MYCODESCHOOL** channel
