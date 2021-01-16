@@ -1,4 +1,9 @@
 # mycodeschool
-This youtube channel has provided Programming knowledge to many of us who are keen to learn but are deprived of resources and I am also indebpted to it.
-As I was learning i have wrote down the code for nearly every video
+``` diff
++This repo is made for application of following concepts of CS:
+```
+|Sr no.| concepts|
+|:----|:----------:|
+|![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)| ```Data Structure ```|
+|![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)|```Object oriented Programming```|
 
