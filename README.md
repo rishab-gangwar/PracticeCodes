@@ -1,6 +1,6 @@
 # mycodeschool
 ``` diff
-+ This repo is made for application of following concepts of CS:
++ This repo is made for application of CS concepts:
 ```
 |Sr no.| concepts|
 |:----|:----------:|
